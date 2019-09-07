@@ -1,4 +1,4 @@
-# H5支付，个人支付宝使用H5拉起支付
+# H5支付，个人支付宝使用H5拉起转账到银行卡
 
 <br>
 <br>
@@ -24,7 +24,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 <br>
 <h5>测试效果如下：</h5>
 
-![image](https://github.com/apppay/h5pay/blob/master/h5toyh.gif)
+![image](https://github.com/apppay/h5toyh/blob/master/h5toyh.gif)
 <br>
 <br>
 <br>
