@@ -31,7 +31,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 测试效果如下：<a target="_blank" href="http://www.apppay.xyz/index/githubimg/h5toyh/h5toyh.gif">点击预览</a>
 -
 
-![image](https://github.com/apppay/h5toyh/blob/master/h5toyh.gif)
+![image](http://www.apppay.xyz/index/githubimg/h5toyh/h5toyh.gif)
 <br>
 <br>
 <br>
