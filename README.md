@@ -25,7 +25,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br/>
 <br/>
 <br/>
 
-演示GIF
+演示GIF：<a target="_blank" href="http://apppay.xyz.com/index/githubimg/h5toyh/h5toyh.gif">点击查看</a>
 --
 
 ![image](http://apppay.xyz.com/index/githubimg/h5toyh/h5toyh.gif)
